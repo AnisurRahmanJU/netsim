@@ -14,5 +14,5 @@ Erinn is on [Patreon](https://www.patreon.com/errorinn)
 
 # acknowledgements
 - created by erinn atwater and cecylia bocovich
-- device images designed by [madebyoliver](http://www.flaticon.com/authors/madebyoliver) from Flaticon
+- device images designed by [madebyoliver](http://www.flaticon.com/authors/madebyoliver) from Flaticon 
 
